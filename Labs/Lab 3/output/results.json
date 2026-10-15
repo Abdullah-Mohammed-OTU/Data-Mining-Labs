@@ -1,0 +1,552 @@
+{
+  "german": {
+    "gini": {
+      "holdout": [
+        {
+          "Label": "Trial 1",
+          "Accuracy": 0.66,
+          "Precision": 0.7043956043956043,
+          "F-measure": 0.6761904761904762
+        },
+        {
+          "Label": "Trial 2",
+          "Accuracy": 0.67,
+          "Precision": 0.6668771248178728,
+          "F-measure": 0.6683736025964658
+        },
+        {
+          "Label": "Trial 3",
+          "Accuracy": 0.66,
+          "Precision": 0.6491269841269842,
+          "F-measure": 0.6535238095238094
+        },
+        {
+          "Label": "Trial 4",
+          "Accuracy": 0.65,
+          "Precision": 0.647124824684432,
+          "F-measure": 0.648499594484996
+        },
+        {
+          "Label": "Trial 5",
+          "Accuracy": 0.63,
+          "Precision": 0.6498778833107192,
+          "F-measure": 0.6385092581672367
+        },
+        {
+          "Label": "Average",
+          "Accuracy": 0.654,
+          "Precision": 0.6634804842671225,
+          "F-measure": 0.6570193481925968
+        }
+      ],
+      "cv": [
+        {
+          "Label": "Fold 1",
+          "Accuracy": 0.66,
+          "Precision": 0.7043956043956043,
+          "F-measure": 0.6761904761904762
+        },
+        {
+          "Label": "Fold 2",
+          "Accuracy": 0.63,
+          "Precision": 0.6328609625668449,
+          "F-measure": 0.6313702165862417
+        },
+        {
+          "Label": "Fold 3",
+          "Accuracy": 0.7,
+          "Precision": 0.6935550935550936,
+          "F-measure": 0.6964992389649923
+        },
+        {
+          "Label": "Fold 4",
+          "Accuracy": 0.73,
+          "Precision": 0.7453937168502652,
+          "F-measure": 0.7341521079610837
+        },
+        {
+          "Label": "Fold 5",
+          "Accuracy": 0.72,
+          "Precision": 0.7140540540540541,
+          "F-measure": 0.716732623033993
+        },
+        {
+          "Label": "Fold 6",
+          "Accuracy": 0.59,
+          "Precision": 0.63,
+          "F-measure": 0.6058185610010428
+        },
+        {
+          "Label": "Fold 7",
+          "Accuracy": 0.73,
+          "Precision": 0.7214682539682539,
+          "F-measure": 0.7237905413374218
+        },
+        {
+          "Label": "Fold 8",
+          "Accuracy": 0.67,
+          "Precision": 0.6893933823529411,
+          "F-measure": 0.6781319870176703
+        },
+        {
+          "Label": "Fold 9",
+          "Accuracy": 0.65,
+          "Precision": 0.6832342954159591,
+          "F-measure": 0.6616653574234093
+        },
+        {
+          "Label": "Fold 10",
+          "Accuracy": 0.72,
+          "Precision": 0.7162867647058824,
+          "F-measure": 0.7178471279963817
+        },
+        {
+          "Label": "Average",
+          "Accuracy": 0.6799999999999999,
+          "Precision": 0.6930642127864898,
+          "F-measure": 0.6842198237512712
+        }
+      ]
+    },
+    "entropy": {
+      "holdout": [
+        {
+          "Label": "Trial 1",
+          "Accuracy": 0.7,
+          "Precision": 0.732926277702397,
+          "F-measure": 0.7122389509470617
+        },
+        {
+          "Label": "Trial 2",
+          "Accuracy": 0.64,
+          "Precision": 0.6609375,
+          "F-measure": 0.648303934871099
+        },
+        {
+          "Label": "Trial 3",
+          "Accuracy": 0.65,
+          "Precision": 0.6716267339218159,
+          "F-measure": 0.6577573970957528
+        },
+        {
+          "Label": "Trial 4",
+          "Accuracy": 0.68,
+          "Precision": 0.6748571428571428,
+          "F-measure": 0.6771575502571295
+        },
+        {
+          "Label": "Trial 5",
+          "Accuracy": 0.66,
+          "Precision": 0.66,
+          "F-measure": 0.66
+        },
+        {
+          "Label": "Average",
+          "Accuracy": 0.666,
+          "Precision": 0.6800695308962712,
+          "F-measure": 0.6710915666342087
+        }
+      ],
+      "cv": [
+        {
+          "Label": "Fold 1",
+          "Accuracy": 0.7,
+          "Precision": 0.732926277702397,
+          "F-measure": 0.7122389509470617
+        },
+        {
+          "Label": "Fold 2",
+          "Accuracy": 0.64,
+          "Precision": 0.64,
+          "F-measure": 0.64
+        },
+        {
+          "Label": "Fold 3",
+          "Accuracy": 0.77,
+          "Precision": 0.7631999999999999,
+          "F-measure": 0.7658375048132462
+        },
+        {
+          "Label": "Fold 4",
+          "Accuracy": 0.75,
+          "Precision": 0.7485714285714287,
+          "F-measure": 0.7492084288677803
+        },
+        {
+          "Label": "Fold 5",
+          "Accuracy": 0.75,
+          "Precision": 0.7341772151898734,
+          "F-measure": 0.7379375591296121
+        },
+        {
+          "Label": "Fold 6",
+          "Accuracy": 0.62,
+          "Precision": 0.6626426426426427,
+          "F-measure": 0.6357169117647059
+        },
+        {
+          "Label": "Fold 7",
+          "Accuracy": 0.69,
+          "Precision": 0.6876654411764705,
+          "F-measure": 0.6887635327635329
+        },
+        {
+          "Label": "Fold 8",
+          "Accuracy": 0.62,
+          "Precision": 0.6626426426426427,
+          "F-measure": 0.6357169117647059
+        },
+        {
+          "Label": "Fold 9",
+          "Accuracy": 0.69,
+          "Precision": 0.6868650793650793,
+          "F-measure": 0.688364617838302
+        },
+        {
+          "Label": "Fold 10",
+          "Accuracy": 0.7,
+          "Precision": 0.6923809523809524,
+          "F-measure": 0.6950367647058823
+        },
+        {
+          "Label": "Average",
+          "Accuracy": 0.6930000000000001,
+          "Precision": 0.7011071679671487,
+          "F-measure": 0.694882118259483
+        }
+      ]
+    },
+    "depths": [
+      2,
+      5,
+      8,
+      11,
+      14,
+      17,
+      20,
+      23,
+      26,
+      29,
+      32,
+      35,
+      38,
+      41,
+      44,
+      47,
+      50
+    ],
+    "train_accs": [
+      0.7311111111111112,
+      0.8066666666666666,
+      0.91,
+      0.9688888888888889,
+      0.9944444444444445,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "test_accs": [
+      0.73,
+      0.74,
+      0.69,
+      0.67,
+      0.63,
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66
+    ]
+  },
+  "wave": {
+    "gini": {
+      "holdout": [
+        {
+          "Label": "Trial 1",
+          "Accuracy": 0.744,
+          "Precision": 0.7467452265930526,
+          "F-measure": 0.7438438423094974
+        },
+        {
+          "Label": "Trial 2",
+          "Accuracy": 0.716,
+          "Precision": 0.7180491809124806,
+          "F-measure": 0.7162193062239687
+        },
+        {
+          "Label": "Trial 3",
+          "Accuracy": 0.776,
+          "Precision": 0.7780663745475329,
+          "F-measure": 0.7762643318298169
+        },
+        {
+          "Label": "Trial 4",
+          "Accuracy": 0.74,
+          "Precision": 0.740523569044716,
+          "F-measure": 0.7394442384674269
+        },
+        {
+          "Label": "Trial 5",
+          "Accuracy": 0.768,
+          "Precision": 0.7679567969262122,
+          "F-measure": 0.7678932501488557
+        },
+        {
+          "Label": "Average",
+          "Accuracy": 0.7487999999999999,
+          "Precision": 0.7502682296047988,
+          "F-measure": 0.7487329937959132
+        }
+      ],
+      "cv": [
+        {
+          "Label": "Fold 1",
+          "Accuracy": 0.744,
+          "Precision": 0.7467452265930526,
+          "F-measure": 0.7438438423094974
+        },
+        {
+          "Label": "Fold 2",
+          "Accuracy": 0.744,
+          "Precision": 0.7443890523292482,
+          "F-measure": 0.743711148837173
+        },
+        {
+          "Label": "Fold 3",
+          "Accuracy": 0.768,
+          "Precision": 0.7698377542241419,
+          "F-measure": 0.768158427137915
+        },
+        {
+          "Label": "Fold 4",
+          "Accuracy": 0.744,
+          "Precision": 0.7447746982015275,
+          "F-measure": 0.7441150546757037
+        },
+        {
+          "Label": "Fold 5",
+          "Accuracy": 0.734,
+          "Precision": 0.7362328383300644,
+          "F-measure": 0.7343687117480221
+        },
+        {
+          "Label": "Fold 6",
+          "Accuracy": 0.756,
+          "Precision": 0.75553367970103,
+          "F-measure": 0.7552225076068478
+        },
+        {
+          "Label": "Fold 7",
+          "Accuracy": 0.772,
+          "Precision": 0.7729046015712683,
+          "F-measure": 0.7712862745098039
+        },
+        {
+          "Label": "Fold 8",
+          "Accuracy": 0.77,
+          "Precision": 0.7703603896103896,
+          "F-measure": 0.7700188621843627
+        },
+        {
+          "Label": "Fold 9",
+          "Accuracy": 0.718,
+          "Precision": 0.7189262027023212,
+          "F-measure": 0.7179176718118742
+        },
+        {
+          "Label": "Fold 10",
+          "Accuracy": 0.708,
+          "Precision": 0.7101009910335063,
+          "F-measure": 0.7085152083186959
+        },
+        {
+          "Label": "Average",
+          "Accuracy": 0.7458,
+          "Precision": 0.746980543429655,
+          "F-measure": 0.7457157709139897
+        }
+      ]
+    },
+    "entropy": {
+      "holdout": [
+        {
+          "Label": "Trial 1",
+          "Accuracy": 0.736,
+          "Precision": 0.7392285479226656,
+          "F-measure": 0.7358988890898113
+        },
+        {
+          "Label": "Trial 2",
+          "Accuracy": 0.744,
+          "Precision": 0.7467546824114083,
+          "F-measure": 0.744502504609712
+        },
+        {
+          "Label": "Trial 3",
+          "Accuracy": 0.732,
+          "Precision": 0.73630790513834,
+          "F-measure": 0.7329914178705189
+        },
+        {
+          "Label": "Trial 4",
+          "Accuracy": 0.792,
+          "Precision": 0.7919324018902816,
+          "F-measure": 0.7919341174279736
+        },
+        {
+          "Label": "Trial 5",
+          "Accuracy": 0.74,
+          "Precision": 0.7409295217524335,
+          "F-measure": 0.7400618706883338
+        },
+        {
+          "Label": "Average",
+          "Accuracy": 0.7487999999999999,
+          "Precision": 0.7510306118230259,
+          "F-measure": 0.7490777599372699
+        }
+      ],
+      "cv": [
+        {
+          "Label": "Fold 1",
+          "Accuracy": 0.736,
+          "Precision": 0.7392285479226656,
+          "F-measure": 0.7358988890898113
+        },
+        {
+          "Label": "Fold 2",
+          "Accuracy": 0.778,
+          "Precision": 0.7777822210522702,
+          "F-measure": 0.7775453126879199
+        },
+        {
+          "Label": "Fold 3",
+          "Accuracy": 0.746,
+          "Precision": 0.7488219110783592,
+          "F-measure": 0.746945988258317
+        },
+        {
+          "Label": "Fold 4",
+          "Accuracy": 0.752,
+          "Precision": 0.7513111509316843,
+          "F-measure": 0.7514428652751999
+        },
+        {
+          "Label": "Fold 5",
+          "Accuracy": 0.768,
+          "Precision": 0.7680907329673878,
+          "F-measure": 0.768040655737705
+        },
+        {
+          "Label": "Fold 6",
+          "Accuracy": 0.764,
+          "Precision": 0.7639539441136051,
+          "F-measure": 0.7636498485769163
+        },
+        {
+          "Label": "Fold 7",
+          "Accuracy": 0.754,
+          "Precision": 0.7537206444810185,
+          "F-measure": 0.7536884504160162
+        },
+        {
+          "Label": "Fold 8",
+          "Accuracy": 0.752,
+          "Precision": 0.7520088105421739,
+          "F-measure": 0.7519510057422725
+        },
+        {
+          "Label": "Fold 9",
+          "Accuracy": 0.772,
+          "Precision": 0.771674411933448,
+          "F-measure": 0.7717202076254853
+        },
+        {
+          "Label": "Fold 10",
+          "Accuracy": 0.758,
+          "Precision": 0.7590725372188787,
+          "F-measure": 0.7578414865193102
+        },
+        {
+          "Label": "Average",
+          "Accuracy": 0.7580000000000001,
+          "Precision": 0.7585664912241492,
+          "F-measure": 0.7578724709928953
+        }
+      ]
+    },
+    "depths": [
+      2,
+      5,
+      8,
+      11,
+      14,
+      17,
+      20,
+      23,
+      26,
+      29,
+      32,
+      35,
+      38,
+      41,
+      44,
+      47,
+      50
+    ],
+    "train_accs": [
+      0.7031111111111111,
+      0.7995555555555556,
+      0.9084444444444445,
+      0.9677777777777777,
+      0.9917777777777778,
+      0.9993333333333333,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "test_accs": [
+      0.718,
+      0.77,
+      0.794,
+      0.772,
+      0.78,
+      0.748,
+      0.744,
+      0.744,
+      0.744,
+      0.744,
+      0.744,
+      0.744,
+      0.744,
+      0.744,
+      0.744,
+      0.744,
+      0.744
+    ]
+  }
+}
